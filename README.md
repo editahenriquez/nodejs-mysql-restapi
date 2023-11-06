@@ -12,7 +12,7 @@ Make sure you have the following installed:
 
 ## Setup
 
-1. Clone the repository.
+1. Clone the repository
 2. Install dependencies using `npm install`.
 3. Set up your MySQL database and update the `config.js` file with your database configuration details.
 4. Start the server using `npm start`.
